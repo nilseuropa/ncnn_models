@@ -1,7 +1,8 @@
 # ncnn_models
 Collection of NCNN Models
 
-
+### HopeNet ###
+Converted with mxnet2ncnn from: https://github.com/haofanwang/mxnet-Head-Pose
 
 ### Faster RCNN ###
 
@@ -39,7 +40,7 @@ Original pre-trained model from: https://github.com/chuanqi305/SqueezeNet-SSD
 
 ### YOLACT ###
 
-Original pre-trained model from: https://github.com/dbolya/yolact 
+Original pre-trained model from: https://github.com/dbolya/yolact
 
 ### MobileNet YOLO ###
 
